@@ -23,7 +23,7 @@ Units are given as an indication, adapt to your own model if relevant.
 
 ## Citation
 
-Feel free to use this code for your own analyses, and please cite it as C. Marché, "Pennes UMATHT", Gefen Lab, GitHub, 2023. Available: <https://github.com/user/repo>.
+Feel free to use this code for your own analyses, and please cite it as C. Marché, "Pennes UMATHT", Gefen Lab, GitHub, 2023. Available: <https://github.com/cecilemarche/UMATHT_Pennes>.
 
 
 <a id="org9496b4f"></a>
