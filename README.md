@@ -1,5 +1,7 @@
 # UMATHT for Pennes Equation in Abaqus
 
+<!-- <meta name="google-site-verification" content="hFBsq8x2doWa42x4HDOkEaINAbYio6g_CFBoOuPUHnk" /> -->
+
 This is a UMATHT implementation of the Pennes bioheat equation ; it translates the equation to a form fit for use as an Abaqus subroutine by expressing it in terms of internal energy per mass $U$, thermal flux $\overrightarrow{q}$, and their respective partial derivatives with respect to the temperature and the temperature gradient.
 
 
@@ -23,7 +25,7 @@ Units are given as an indication, adapt to your own model if relevant.
 
 ## Citation
 
-Feel free to use this code for your own analyses, and please cite it as C. Marché, "Pennes UMATHT", Gefen Lab, GitHub, 2023. Available: <https://github.com/cecilemarche/UMATHT_Pennes>.
+Feel free to use this code for your own analyses, and please cite it as C. MarchÃ©, "Pennes UMATHT", Gefen Lab, GitHub, 2023. Available: <https://github.com/cecilemarche/UMATHT_Pennes>.
 
 
 <a id="org9496b4f"></a>
